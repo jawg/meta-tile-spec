@@ -1,4 +1,4 @@
-# Mapsquare Meta Tile specification
+# Map Meta Tile specification
 
 
 A specification for encoding metatiles for either transport or storage.  
